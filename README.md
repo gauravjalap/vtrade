@@ -1,6 +1,6 @@
 ## VTRADE
 
-<!-- 🌍 Deployed Link: [`https://vtrade-k8vg.onrender.com`](https://vtrade-k8vg.onrender.com) -->
+🌍 Deployed Link: [`https://vtrade.vercel.app/`](https://vtrade.vercel.app/) 
 
 The Used Vehicle Marketplace is an online platform designed to facilitate the buying and selling of pre-owned vehicles. This platform offers users the opportunity to directly connect with vehicle owners, streamlining the process of purchasing or selling a used vehicle.
 
